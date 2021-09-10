@@ -5,7 +5,10 @@
 - 👩🏽‍🎓 💻 I'm brazilian IT student
 - 📫 How to reach me amanda.duaibs@gmail.com 
 
-<!---
-amandaDuaibs/amandaDuaibs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+  <a href="https://github.com/amandaDuaibs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaDuaibs&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaDuaibs&layout=compact&langs_count=7&theme=bear"/>
+</div>
+   
+                
