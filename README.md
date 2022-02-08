@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amandaDuaibs
 - 👀 I’m interested in frontend languages
-- 🌱 I’m currently learning html, css and JS
 - 💞️ I’m looking to collaborate on frontend project
-- 👩🏽‍🎓 💻 I'm brazilian IT student
+- 👩🏽‍🎓 💻 I'm brazilian IT student and inter in Dev front-end in Digital Factory on Braskem
 - 📫 How to reach me amanda.duaibs@gmail.com 
 
  <div>
