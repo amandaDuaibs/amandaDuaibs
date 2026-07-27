@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @amandaDuaibs
-- 👀 I’m interested in frontend languages
-- 💞️ I’m looking to collaborate on frontend project
-- 📫 How to reach me amanda.duaibs@gmail.com 
+### 👋 Olá! Sou @AmandaDuaibs
 
- <div>
-  <a href="https://github.com/amandaDuaibs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaDuaibs&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaDuaibs&layout=compact&langs_count=7&theme=bear"/>
-</div>
-   
-                
+**Analista de BI Júnior** | Dados, Dashboards e Decisões
+
+🔭 Atualmente trabalhando como Analista de BI especializada em Marketing
+🌱 Aprofundando em: SQL avançado, Python para análise, Modelagem dimensional e KPIs
+📫 Contato: 
+  * LinkedIn: @amandaduaibs
+  * E-mail: amanda.duaibs@gmail.com
+
+### 🛠 Stack
+
+**BI & Visualização:** Power BI · Tableau · Looker Studio
+**Banco de Dados:** SQL Server · PostgreSQL · BigQuery
+**Análise:** Python (Pandas, NumPy) · Excel Avançado
+**Ferramentas:** Git · GitHub Actions · dbt (básico)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
